@@ -1271,6 +1271,7 @@
 			ul.links li:first-child {
 				margin-left: 0;
 				padding-left: 0;
+				border: none;
 			}
 
 	ul.actions {
